@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://i.ytimg.com/vi/GqMW5lLR95c/maxresdefault.jpg)](https://vrajeshbrahmbhatt06.io)
+[![MasterHead](https://im2.ezgif.com/tmp/ezgif-2-2b69d0e779.gif)](https://vrajeshbrahmbhatt06.io)
 <h1 align="center">Heyy 👋, I'm Vrajesh Brahmbhatt</h1>
 <h3 align="center">A passionate learner</h3>
+<h4 align="center">Sportsman Guitarist Astrophile </h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrajeshbrahmbhatt06&label=Profile%20views&color=0e75b6&style=flat" alt="vrajeshbrahmbhatt06" /> </p>
