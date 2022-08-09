@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Vrajeshbrahmbhatt06/Vrajeshbrahmbhatt06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [![MasterHead](https://im2.ezgif.com/tmp/ezgif-2-2b69d0e779.gif)](https://vrajeshbrahmbhatt06.io)
 <h1 align="center">Heyy 👋, I'm Vrajesh Brahmbhatt</h1>
 <h3 align="center">A passionate learner</h3>
