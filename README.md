@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![MasterHead](https://media3.giphy.com/media/z80rgeNRcVrSrhBJpM/giphy.gif?cid=790b76111f689ec10e6ff7631bd3900215cba4878cebc8c1&rid=giphy.gif&ct=g)](https://vrajeshbrahmbhatt06.io)
 <h1 align="center">Heyy 👋, I'm Vrajesh Brahmbhatt</h1>
 <h3 align="center">A passionate learner</h3>
-<h4 align="center">Sportsman Guitarist Astrophile </h4>
+<h4 align="center"> Interests<br>Sports🏃🏻  Guitar🎸  Astronomy&Physics🔭</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrajeshbrahmbhatt06&label=Profile%20views&color=0e75b6&style=flat" alt="vrajeshbrahmbhatt06" /> </p>
